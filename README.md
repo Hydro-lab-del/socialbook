@@ -17,7 +17,7 @@ Socialbook is a Facebook UI clone built with HTML, CSS, and JavaScript. This pro
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Hydro-lab-del/socialbook
    ```
 2. Navigate to the project directory:
    ```bash
